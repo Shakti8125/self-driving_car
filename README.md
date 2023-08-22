@@ -6,3 +6,7 @@ Implemented collision detection using segment intersection<br />
 The brain of the car is a simple neural network which is optimized<br />
 using a generic algorithm<br />
 [Self-driving Car](https://github.com/Shakti8125/self-driving_car/assets/82773142/31516f84-986d-4c07-9edc-2cc784b24cd3)
+
+<video width="320" height="240" controls>
+  <source src="https://github.com/Shakti8125/self-driving_car/assets/82773142/31516f84-986d-4c07-9edc-2cc784b24cd3" type="video/webm">
+</video>
